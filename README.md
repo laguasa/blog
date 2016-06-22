@@ -1,2 +1,12 @@
-# blog
-Es un proyecto dedicando al crecimiento de comunidad guasera a través de un blog de eventos
+Blog
+
+[Descripción del proyecto]
+
+[Instalaciòn]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+[Documentación]
