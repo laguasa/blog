@@ -10,3 +10,9 @@ Blog
 [Uso]
 
 [Documentación]
+
+[Roadmap]
+
+[Licencia]
+
+[Agradecimientos]
